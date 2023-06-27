@@ -1,0 +1,5 @@
+WANDB_API_KEY=local-api-key-from-wandb
+WANDB_BASE_URL=https://your_wandb.instance
+WANDB_USERNAME=your-username
+WANDB_ENTITY=your-wandb-entity-name
+WANDB_DIR=/labs/cache
