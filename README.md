@@ -1,5 +1,12 @@
 # MultiClaim dataset
 
+## Paper
+
+More details about the dataset and our experiments can be found in our paper _Multilingual Previously Fact-Checked Claim Retrieval_.
+
+- Available at arXiv: https://arxiv.org/abs/2305.07991
+- Accepted to the EMNLP 2023 conference 
+
 ## Structure
 
 - `cache` - folder for intermediate results, such as models, result dumps, logs, etc.
